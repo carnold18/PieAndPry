@@ -10,11 +10,11 @@
 #### How do you use pry and what are the ways to instantiate a pry session?
 
 #### Defining variables and accessing them within: 
-##### 1. Pry session
-##### 2. Method
-#####      a. What is a method? 
-#####      b. What is an argument? 
-#####      c. Can you pry within a method? 
-#####      d. How do you call a method? 
-#####      e. What data types can you pass into a method? (string v. array v. integer) 
-#####      f. Iterate over an array using its indicies. Will pry hit during each iteratiom?
+- Pry session
+- Method
+- What is a method? 
+1. What is an argument? 
+2. Can you pry within a method? 
+3. How do you call a method? 
+4. What data types can you pass into a method? (string v. array v. integer) 
+5. Iterate over an array using its indicies. Will pry hit during each iteratiom?
