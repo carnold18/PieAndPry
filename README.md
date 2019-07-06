@@ -11,8 +11,8 @@ _Monthly event for potential students and curious minds as an introduction to Ru
 
 ***
 
-- Define variables and access them within a Pry session
-- Method
+- How do you define variables?
+- How do you access variables within a Pry session?
 - What is a method? 
   - What is an argument? 
   - Can you pry within a method? 
