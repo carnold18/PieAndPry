@@ -21,8 +21,7 @@ _Monthly event for potential students and curious minds as an introduction to Ru
   - Iterate over an array using its indicies. Will pry hit during each iteration?
   
   ***
-  
-  - Example for teaching `puts` and `binding.pry`:
-   1. Start with an array of student names, asking for student participation to populate the array.
-   2. Initiate with a string and add names from the array onto the string, `puts`'ing during each iteration.
-   3. Start a `pry` session as a means of showing a paused runtime. 
+- Example for teaching `puts` and `binding.pry`:
+  1. Start with an array of student names, asking for student participation to populate the array.
+  2. Initiate with a string and add names from the array onto the string, `puts`'ing during each iteration.
+  3. Start a `pry` session as a means of showing a paused runtime. 
